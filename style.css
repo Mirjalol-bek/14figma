@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} body {
+    background: #fff;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+header {
+    margin-bottom: 200px;
+    margin-top: 200px;
+    width: 1466px;
+    height: 768px;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 700px;
+    height: 768px;
+    flex-shrink: 0;
+    background: #4A2619;
+}
+.logo {
+    margin-left: 100px;
+    color: #fff;
+    width: 81px;
+    height: 60px;
+    flex-shrink: 0;
+    background: #984F0E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 194px;
+    height: 385px;
+    flex-shrink: 0;
+    background: #CBBDAD;
+}
+.container .hed {
+    width: 345px;
+    height: 383.5px;
+    flex-shrink: 0;
+    background: #984F0E;
+    display: flex;
+    margin-top: -205.5px;
+    margin-left: 550px;
+}
+.cod {
+    width: 407px;
+    height: 768px;
+    flex-shrink: 0;
+    background: #302621;
+}
+ .imgs {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: -345.5px;
+margin-left: -727px;
+width: 1201px;
+height: 800px;
+
+} 
+.log {
+    padding: 25px 105px 719px 272px;
+}
+.logs {
+    width: 107px;
+    height: 102px;
+    flex-shrink: 0;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -678px;
+    margin-left: 50px;
+}
+.nuqta {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.kolsa {
+    width: 108.153px;
+    height: 108.447px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 190px;
+    margin-left: 160px;
+}
+.chiziq {
+    padding-top: 470px;
+    padding-left: 505px;
+}
+.for {
+    display: flex;
+width: 554px;
+height: 194px;
+flex-direction: column;
+flex-shrink: 0;
+color: #FFF;
+font-family: blemo;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+margin-top: -760px;
+margin-left: 180px;
+
+}
+.hand {
+    display: flex;
+    width: 265px;
+    height: 77px;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding-top: 40px;
+}
+.for .cumm {
+    display: flex;
+    padding-top: 110px;
+    gap: 15px;
+}
+.cumm p {
+    color: #FFF;
+    font-family: blemo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.comm img {
+    width: 37.598px;
+    height: 0px;
+    flex-shrink: 0;
+    stroke-width: 3px;
+    stroke: #FFF;
+}
+.and {
+    display: flex;
+width: 260px;
+flex-direction: column;
+flex-shrink: 0;
+color: #FFF;
+font-family: Lato;
+font-size: 18px;
+padding-top: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
